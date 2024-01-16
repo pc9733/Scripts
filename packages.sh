@@ -9,3 +9,7 @@ sudo yum upgrade
 sudo yum install jenkins -y
 sudo systemctl start jenkins 
 sudo systemctl enable jenkins
+
+## install mvn ##
+
+sudo yum install maven
